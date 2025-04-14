@@ -2,3 +2,5 @@
 Example using gitlab CI
 
 Hello from nvdang
+
+Update by thai
