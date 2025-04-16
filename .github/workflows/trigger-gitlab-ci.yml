@@ -17,4 +17,4 @@ jobs:
             --fail
             -F "token=$GITLAB_TOKEN" \
             -F "ref=main" \
-            https://gitlab.com/api/v4/projects/68947536/trigger/pipeline
+            "https://gitlab.com/api/v4/projects/68947536/trigger/pipeline"
